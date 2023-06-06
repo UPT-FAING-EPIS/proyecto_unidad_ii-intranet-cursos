@@ -2,7 +2,7 @@ import pika
 import datetime
 import json
 
-rabbitmq_host = "localhost"
+rabbitmq_host = "161.132.37.55"
 rabbitmq_port = "5672"
 rabbitmq_username = "andre"
 rabbitmq_password = "123"
